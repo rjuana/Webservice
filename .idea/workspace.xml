@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fb4a62e-2d66-4bb9-a822-f8fd8553a86c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icons8_dove_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icons8_phoenix_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/portada1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/icons8_dove_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/icons8_phoenix_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/portada1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/icons8_dove_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/icons8_phoenix_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/portada1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/icons8_dove_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/icons8_phoenix_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/portada1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/icons8_dove_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/icons8_phoenix_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/portada1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/icons8_dove_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/icons8_phoenix_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/portada1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/icons8_dove_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/icons8_phoenix_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/portada1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/jhon/petagram/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/jhon/webservices/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/JavaMailAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/JavaMailAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/Mascotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/Mascotas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/MisContactos.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/MisContactos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/adaptadores/ContactoAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/adaptadores/ContactoAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/adaptadores/MascotaAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/adaptadores/MascotaAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/adaptadores/PageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/adaptadores/PageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/database/BaseDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/database/BaseDatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/database/Constructorcontactos.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/database/Constructorcontactos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/database/ContanteBaseDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/database/ContanteBaseDatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/fragment/FragmentReciclerview.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/fragment/FragmentReciclerview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/fragment/InstagramFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/fragment/InstagramFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/fragment/MascotaFavoritaFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/fragment/MascotaFavoritaFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/fragment/MascotaFragmentview.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/fragment/MascotaFragmentview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/fragment/ReciclerviewFragmentview.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/fragment/ReciclerviewFragmentview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/menus/ActivityAbout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/menus/ActivityAbout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/menus/ActivityContacto.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/menus/ActivityContacto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/pojo/Contacto.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/pojo/Contacto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/pojo/Mascota.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/pojo/Mascota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/presentador/FavoritaPresentador.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/presentador/FavoritaPresentador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/presentador/IMascotaViewPresentador.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/presentador/IMascotaViewPresentador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/presentador/IRecyclerViewPresentador.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/presentador/IRecyclerViewPresentador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/presentador/MascotaPresentador.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/presentador/MascotaPresentador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/presentador/RecyclerViewPresentador.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/presentador/RecyclerViewPresentador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/resApi/ConstantesApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/resApi/ConstantesApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/resApi/EndpointApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/resApi/EndpointApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/resApi/JsonKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/resApi/JsonKeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/resApi/MacotaDeserializador.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/resApi/MacotaDeserializador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/resApi/MascotaResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/resApi/MascotaResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jhon/petagram/resApi/RestApiAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/resApi/RestApiAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/abejita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/castor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mascota_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mascota_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mascota_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/perrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/portada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/zorrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/abejita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/castor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/gato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/mascota_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/mascota_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/mascota_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/perrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/portada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/zorrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/abejita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/castor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mascota_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mascota_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mascota_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/perrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/portada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/zorrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/abejita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/castor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/gato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/mascota_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/mascota_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/mascota_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/perrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/portada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-tvdpi/zorrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/abejita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/castor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mascota_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mascota_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mascota_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/perrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/portada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/zorrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/abejita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/castor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mascota_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mascota_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mascota_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/perrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/portada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/zorrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/abejita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/castor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mascota_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mascota_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mascota_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/perrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/portada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/zorrito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_contacto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_contacto.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_mis_contactos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_mis_contactos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/appbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/appbar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/cardview_grid_contacto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/cardview_grid_contacto.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_mascota_favorita.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_mascota_favorita.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/perfil_mascota.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/perfil_mascota.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/jhon/petagram/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/jhon/webservices/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Galaxy_Nexus_API_23" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Petagram" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hvEkDKNA6kC8tLXq9dMl7JzsOS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Galaxy_Nexus_API_23" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-11T19:59:14.106Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="algorithm" value="Scalr" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="destination" value="DRAWABLE" />
+    <property name="format" value="PNG" />
+    <property name="lastFolderRoot" value="$USER_HOME$/Desktop/mascota 5.jpg" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/portada1.jpg" />
+    <property name="method" value="Automatic" />
+    <property name="project.structure.last.edited" value="Variables" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="resolutions" value="LDPI&#10;MDPI&#10;XXHDPI&#10;TVDPI&#10;HDPI&#10;XXXHDPI&#10;XHDPI" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="sourceResolution" value="XHDPI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USUARIO\Downloads\andr\backup\Petagram Persistent\app\src\main\res\values" />
+      <recent name="C:\Users\USUARIO\Downloads\andr\backup\Petagram Persistent\app\src\main\res\layout" />
+      <recent name="C:\Users\USUARIO\Downloads\andr\Petagram fragment\app\src\main\java\com\jhon\petagram\presentador" />
+      <recent name="C:\Users\USUARIO\Downloads\andr\Petagram fragment\app\src\main\java\com\jhon\petagram\basedatos" />
+      <recent name="C:\Users\USUARIO\Downloads\andr\Petagram-master\.idea\libraries" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jhon.petagram" />
+    </key>
+    <key name="android.template.1776699559">
+      <recent name="com.jhon.petagram" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jhon.petagram.resApi" />
+      <recent name="com.jhon.petagram.fragment" />
+      <recent name="com.jhon.petagram" />
+    </key>
+    <key name="android.template.-2024310000">
+      <recent name="com.jhon.petagram" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fb4a62e-2d66-4bb9-a822-f8fd8553a86c" name="Default Changelist" comment="" />
+      <created>1600883306481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600883306481</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="237" y="162" key="#PSD" timestamp="1601873849146">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="237" y="162" key="#PSD/0.0.1440.860@0.0.1440.860" timestamp="1601873849146" />
+    <state x="469" y="266" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1601298191909">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="469" y="266" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1440.860@0.0.1440.860" timestamp="1601298191909" />
+    <state x="525" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1601872100427">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1601872100427" />
+    <state x="233" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602446238832">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="233" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.860@0.0.1440.860" timestamp="1602446238832" />
+    <state x="516" y="288" width="408" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601866640270">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="516" y="288" width="408" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.860@0.0.1440.860" timestamp="1601866640270" />
+    <state x="535" y="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1601573942784">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="535" y="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.860@0.0.1440.860" timestamp="1601573942784" />
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602449859432">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1602449859432" />
+    <state x="450" y="177" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1601860463819">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="177" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.860@0.0.1440.860" timestamp="1601860463819" />
+    <state x="443" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601579624141">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="443" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.860@0.0.1440.860" timestamp="1601579624141" />
+    <state x="300" y="185" key="AndroidCreateResourceFileDialog" timestamp="1601866876743">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="300" y="185" key="AndroidCreateResourceFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1601866876743" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1602449936670">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1602449936670" />
+    <state width="1397" height="344" key="GridCell.Tab.0.bottom" timestamp="1601871638256">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="344" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1601871638256" />
+    <state width="1397" height="344" key="GridCell.Tab.0.center" timestamp="1601871638256">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="344" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1601871638256" />
+    <state width="1397" height="344" key="GridCell.Tab.0.left" timestamp="1601871638256">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="344" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1601871638256" />
+    <state width="1397" height="344" key="GridCell.Tab.0.right" timestamp="1601871638256">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="344" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1601871638256" />
+    <state x="244" y="72" key="SettingsEditor" timestamp="1601874583443">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="244" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1601874583443" />
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1602040806458">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1602040806458" />
+    <state x="462" y="58" key="refactoring.ChangeSignatureDialog" timestamp="1601864676772">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="462" y="58" key="refactoring.ChangeSignatureDialog/0.0.1440.860@0.0.1440.860" timestamp="1601864676772" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1601872193479">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1601872193479" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1601870596477">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1601870596477" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/jhon/webservices/presentador/FavoritaPresentador.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
